@@ -9,12 +9,13 @@
 
 ## Projetos
 
+- [ollama](ollama.md)
 - https://github.com/meta-llama/llama-models
 - https://github.com/meta-llama/llama
 - https://github.com/vllm-project/vllm
 - https://github.com/bentoml/OpenLLM
 - https://github.com/Mozilla-Ocho/llamafile
 - https://github.com/mistralai/mistral-finetune
-- https://github.com/ollama/ollama
 - https://github.com/Mozilla-Ocho/llamafile
 - https://github.com/microsoft/Phi-3CookBook
+
