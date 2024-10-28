@@ -1,5 +1,7 @@
 # LLMs
 
+- Evaluation of llm: [fscheidt/clm](https://github.com/fscheidt/clm)
+
 ## Modelos abertos
 
 - [Gemma](https://ai.google.dev/gemma)

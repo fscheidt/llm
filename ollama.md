@@ -1,6 +1,6 @@
 ## ollama
 - https://ollama.com/
-- https://github.com/ollama/ollama
+- https://github.com/ollama/ollama (go)
 - https://github.com/ollama/ollama-python
 
 Install:
